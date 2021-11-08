@@ -23,12 +23,12 @@ class Cal_area
    }
    void show()
    {
-      System.out.println("¥b®|="+radius);
-      System.out.println("²y§Î­±¿n="+(4/3)*(radius*radius*radius));
-      System.out.print("ªø="+length);
-      System.out.print("¼e="+width);
-      System.out.println("°ª="+height);
-      System.out.println("¥ß¤èÅé­±¿n="+length*width*6);
+      System.out.println("åŠå¾‘="+radius);
+      System.out.println("çƒå½¢é¢ç©="+(4/3)*(radius*radius*radius));
+      System.out.print("é•·="+length);
+      System.out.print("å¯¬="+width);
+      System.out.println("é«˜="+height);
+      System.out.println("ç«‹æ–¹é«”é¢ç©="+length*width*6);
    }
 }
 public class Class03 {
